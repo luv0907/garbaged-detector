@@ -1,0 +1,26 @@
+# Python & Virtual Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets (CRITICAL - DO NOT COMMIT)
+.env
+serviceAccountKey.json
+
+# Node & Dependencies
+node_modules/
+my-waste-app/node_modules/
+my-waste-app/dist/
+
+# Temporary media & generated runtime files
+captured.jpg
+temp.jpg
+QR_*.png
+*.png
+waste_records.json
+scratch/
+
+# OS files
+.DS_Store
+Thumbs.db

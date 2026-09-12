@@ -1,0 +1,25 @@
+# Core
+python-dotenv
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Google Gemini
+google-generativeai
+
+# Serial Communication
+pyserial
+
+# QR Code
+qrcode[pil]
+
+# Firebase
+firebase-admin
+
+# Web API (FastAPI backend)
+fastapi
+uvicorn
+
+# Utilities
+pydantic

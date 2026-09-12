@@ -1,0 +1,10 @@
+{
+  "name": "garbage-detector-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix my-waste-app",
+    "build": "npm run build --prefix my-waste-app",
+    "start": "npm run dev --prefix my-waste-app"
+  }
+}
